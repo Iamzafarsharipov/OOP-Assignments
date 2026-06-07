@@ -1,3 +1,4 @@
+#Magic Methods
 class Prescription:
     def __init__(self,medication_name:str,price_per_pill:float,pill_count:int)->None:
         self.medication_name=medication_name
