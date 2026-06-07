@@ -1,3 +1,4 @@
+#Introduction to OOP
 class FitnessClass:
     gym_name="Power Gym"
     max_capacity=3
